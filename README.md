@@ -1,7 +1,7 @@
-# Tailwind CSS – Discuss
+# We've moved!
 
-A place to ask questions, get help, or share what you've built with Tailwind CSS.
+GitHub is adding native discussions support and we're lucky enough to be one of the first communities to try it out.
 
-Head over to the issues to get involved:
+If you have a question, need help, want to share what you're working on, or just want to talk shop around Tailwind CSS, head over to the discussions area on tailwindcss/tailwindcss:
 
-[Discuss Tailwind CSS](https://github.com/tailwindcss/discuss/issues?q=is%3Aissue+sort%3Aupdated-desc)
+[Discuss Tailwind CSS](https://github.com/tailwindcss/tailwindcss/discussions)
